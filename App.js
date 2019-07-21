@@ -102,7 +102,7 @@ const myStyles = StyleSheet.create({
     paddingTop: 30,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: 'rgba(167, 219, 216, 1)'
+    backgroundColor: "#A2E8E4"
     
   },
 
